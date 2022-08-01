@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="2095cdc1-db0b-45ff-b645-3dda4d6d0fcf" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/Service/BUS_HocSinh.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="BUS_HocSinh1.xsd" MetadataType="Schema" ID="698cfdd1-7d7d-4c96-9708-d27983e6438c" SourceId="1" SourceUrl="http://localhost/Service/BUS_HocSinh.svc?xsd=xsd2" />
+    <MetadataFile FileName="BUS_HocSinh2.xsd" MetadataType="Schema" ID="60a1932e-77fd-48ff-9f76-a2e3ed89796c" SourceId="1" SourceUrl="http://localhost/Service/BUS_HocSinh.svc?xsd=xsd1" />
+    <MetadataFile FileName="BUS_HocSinh.disco" MetadataType="Disco" ID="2b1ea083-70a8-4cd8-bfd2-584ff81532f0" SourceId="1" SourceUrl="http://localhost/Service/BUS_HocSinh.svc?disco" />
+    <MetadataFile FileName="BUS_HocSinh.xsd" MetadataType="Schema" ID="fe4859b3-9f04-4a2d-ad12-1b7da53b47b3" SourceId="1" SourceUrl="http://localhost/Service/BUS_HocSinh.svc?xsd=xsd0" />
+    <MetadataFile FileName="BUS_HocSinh.wsdl" MetadataType="Wsdl" ID="66c31b2e-91e8-4dd1-98d6-c5d60b40813b" SourceId="1" SourceUrl="http://localhost/Service/BUS_HocSinh.svc?wsdl" />
+    <MetadataFile FileName="BUS_HocSinh3.xsd" MetadataType="Schema" ID="1e8aa848-ba34-4846-804d-c496122ef341" SourceId="1" SourceUrl="http://localhost/Service/BUS_HocSinh.svc?xsd=xsd3" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,6 @@
+E:\Workspace\C#\QuanLyHocSinh\DTO\bin\Debug\DTO.dll
+E:\Workspace\C#\QuanLyHocSinh\DTO\bin\Debug\DTO.pdb
+E:\Workspace\C#\QuanLyHocSinh\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\Workspace\C#\QuanLyHocSinh\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Workspace\C#\QuanLyHocSinh\DTO\obj\Debug\DTO.dll
+E:\Workspace\C#\QuanLyHocSinh\DTO\obj\Debug\DTO.pdb
